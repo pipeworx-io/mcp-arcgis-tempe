@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-tempe",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Tempe GIS — Tempe, Arizona open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6a2ba84ba04e259c7773da84c2ff10a4470fad97681336661e20d4b001e9bbbd",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-239c5cd430504d1da2b078a42688cdcffd4ca1b0fc049b9ffaea984b649e4718",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
